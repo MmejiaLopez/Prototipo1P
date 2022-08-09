@@ -1,0 +1,11 @@
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.csproj.AssemblyReference.cache
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\LaboratorioClinico.Login.resources
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\LaboratorioClinico.Menu.resources
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.Properties.Resources.resources
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\LaboratorioClinico.Recuperar.resources
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\LaboratorioClinico.UsuarioNuevo.resources
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.csproj.GenerateResource.cache
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.AssemblyInfoInputs.cache
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.AssemblyInfo.cs
+D:\Examenes\Primer Parcial\Analisis de Sistemas II\Practica\Prototipo1P\Programa\Prototipo\WinFormsApp1\obj\Debug\net5.0-windows\Protoripo.csproj.CoreCompileInputs.cache
